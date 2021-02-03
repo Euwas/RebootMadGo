@@ -1,0 +1,13 @@
+mad:
+  address: "https://your-url-here"
+  username: ""
+  password: ""
+
+ha:
+  address: "https://your-url-here"
+
+devices:
+  - name: name-of-device-1
+    adbaddress: xxx.xxx.xxx.xxx
+  - name: name-of-device-2
+    adbaddress: xxx.xxx.xxx.xxx
